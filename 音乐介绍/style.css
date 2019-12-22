@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */ 
+
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin: 0; padding: 0; border: 1; outline: none;}
+body {	font-family: "微软雅黑";font-size: 14px;color:#000000; line-height:30px;text-align:left; }
+td,th {font-family: "宋体";font-size: 14px;color: #000000;}
+.clearit{clear:both;}  
+A:link {TEXT-DECORATION: none;} 
+A:visited {TEXT-DECORATION: none;}
+ul,li{list-style-type:none; color:#000;}
+p{ line-height:30px; }
+a{color:#ebead9;}
+a:hover{color:#ebead9;}
+
+
+
+.zong{height:90px; background-color:#413831;}
+.page{width:1000px; margin:0 auto;}
+.logo{float:left; margin-top:15px;}
+.daohang{float:right;}
+.daohang p{line-height:90px; color:#ebead9;}
+.dan{height:450px; background-color:#716356;}
+.banner{width:1000px; margin:0 auto;}
+.banner img{margin-top:50px;}
+.kuai{width:323px; float:left; margin-left:5px; margin-right:5px; height:60px; background-color:#716457; margin-top:50px;}
+.kuai p{color:#FFF; text-align:center; line-height:60px;}
+.wenzi{width:323px; float:left; margin-left:5px; margin-right:5px; margin-top:10px;}
+.wenzi p{font-size:12px;}
+.zi{ margin-top:30px; height:30px; border-bottom:1px solid #413831;}
+.zi p{font-size:16px;}
+.foot{height:90px; background-color:#413831; margin-top:30px;}
+.foot p{ line-height:90px;color:#ebead9; text-align:center;}
+.tupian{float:left; width:500px; margin-top:30px;}
+.zuo{float:left; width:280px; margin-top:20px;}
+.you{float:right; width:700px;margin-top:20px;}
+.left{float:left; width:700px;}
+.right{float:right; width:280px;}
+h1{font-size:16px;}
+h2{color:#900; font-size:15px;}
+.biaodan input{width:300px; height:40px;}
+.ti{width:50px;}
+.biao{margin:0 auto; width:350px;}
+.you a{color:#900;}
+
+.left a{color:#900;}
+
